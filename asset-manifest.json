@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.e7c65ea8.css",
+    "main.js": "/PortfolioWebsite/static/js/main.c697b353.js",
+    "static/js/787.379b247c.chunk.js": "/PortfolioWebsite/static/js/787.379b247c.chunk.js",
+    "static/media/me-modified.png": "/PortfolioWebsite/static/media/me-modified.b1fe8be3a2d9684402a8.png",
+    "static/media/portfolio2.png": "/PortfolioWebsite/static/media/portfolio2.4339a6faecf1beb5e069.png",
+    "static/media/AbhirajkarBajpai(Resume).pdf": "/PortfolioWebsite/static/media/AbhirajkarBajpai(Resume).0a90dc28bddc34141086.pdf",
+    "static/media/AbhirajkarBajpai2.png": "/PortfolioWebsite/static/media/AbhirajkarBajpai2.ad22028acd0f01bdd313.png",
+    "static/media/portfolio6.webp": "/PortfolioWebsite/static/media/portfolio6.a8e7cfe67752730d80b0.webp",
+    "static/media/sun.png": "/PortfolioWebsite/static/media/sun.d07c9ecea0ad9094855a.png",
+    "static/media/phone.png": "/PortfolioWebsite/static/media/phone.facb82d6fff343fc7817.png",
+    "static/media/whatsapp.png": "/PortfolioWebsite/static/media/whatsapp.b1b801cf0375045d4f69.png",
+    "static/media/instagram.png": "/PortfolioWebsite/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/messenger.png": "/PortfolioWebsite/static/media/messenger.ce9b3681a8f034db7169.png",
+    "static/media/Portfolio1.gif": "/PortfolioWebsite/static/media/Portfolio1.0809a4abb6abc481544b.gif",
+    "static/media/moon.png": "/PortfolioWebsite/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/humble.png": "/PortfolioWebsite/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/PortfolioWebsite/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/mail.png": "/PortfolioWebsite/static/media/mail.2c378c9ee25927123f7d.png",
+    "static/media/linkedin.png": "/PortfolioWebsite/static/media/linkedin.92380c03cc82f139a166.png",
+    "static/media/glasses.png": "/PortfolioWebsite/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/facebook.png": "/PortfolioWebsite/static/media/facebook.8d51a55626e9bf107f8f.png",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.e7c65ea8.css.map": "/PortfolioWebsite/static/css/main.e7c65ea8.css.map",
+    "main.c697b353.js.map": "/PortfolioWebsite/static/js/main.c697b353.js.map",
+    "787.379b247c.chunk.js.map": "/PortfolioWebsite/static/js/787.379b247c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c65ea8.css",
+    "static/js/main.c697b353.js"
+  ]
+}
